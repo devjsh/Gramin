@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String LOGIN_URL = "https://seekho.xyz/pgp-android/api/login-user.php";
 
 //    AppUpdateManager appUpdateManager;
+    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
